@@ -8,7 +8,7 @@ I'm currently working on my Master's thesis at Subset, the topic is ethical hack
 
 ### Some of my IoT Hobby Projects
 * [Logitech Zmart906](https://github.com/albznw/Logitech-Z906-WiFi) - Giving IoT capbabilities to my old Surround System.
-* [People Counter](https://github.com/albznw/People-counter) - Count number of people inside a room by looking at number of people entering and exiting a door using a Time-of-Flight sensor camera.
+* [People Counter](https://github.com/albznw/people-counter) - Count number of people inside a room by looking at number of people entering and exiting a door using a Time-of-Flight sensor camera.
 * [Energy Pulse Meter](https://github.com/albznw/Energy-Pulse-Meter) - Gives IoT capabilities to en energy meter by reading the light pulses emitted by the kWh led. 
 
 ### A couple of Software Hobby Projects
