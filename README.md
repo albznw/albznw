@@ -16,6 +16,7 @@ I'm currently working on my Master's thesis at Subset, the topic is ethical hack
 * [TaskSyncer Notion-Google](https://github.com/albznw/task-syncer-notion-google) - Syncs tasks between Notion and Google Tasks.
 * [Analog Metadata](https://github.com/albznw/analog-metadata) - Add metadata to analog photos.
 * [Notion IMDB](https://github.com/albznw/notion-imdb) - Pull data on a movie or TV-series when a title is added to a Notion database.
+* [Scramble Squares puzzle solver](https://github.com/albznw/scramble-squares-solver) - Finds all solutions to scramble squares puzzles.
 * [WASM Sandbox Demo](https://github.com/AxlLind/wasm-sandbox-demo) - Demoproject to showcase the security and sandbox execution of WebAssembly.
 
 Let me know if you need any help setting up one of my projects!
