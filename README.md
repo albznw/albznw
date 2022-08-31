@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Albin, a
 
-* Computer Science Student at [KTH](http://www.kth.se) pursuing a Master's in Computer Security and Integrity 🔐
-* Software developer 👨‍💻
+* Software Developer at [Netlight](http://www.netlight.com)
+* Computer Science Engineer with a Master's in Computer Security and Integrity 🔐
 * Hobby electronics enthusiast with a passion for IoT systems 💡
 
 I'm currently working on my Master's thesis at Subset, the topic is ethical hacking on <span>&#9737;&#9712;&#9740;&#9736;&#1304;&#9712;&#1290;&#1300;</span>.
